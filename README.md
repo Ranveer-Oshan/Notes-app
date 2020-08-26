@@ -1,2 +1,3 @@
 # Notes-app
-Notes application made in Node.js  
+Notes application made in Node.js
+
